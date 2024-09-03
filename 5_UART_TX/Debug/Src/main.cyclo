@@ -1,0 +1,5 @@
+../Src/main.c:23:5:main	1
+../Src/main.c:32:6:uar2_tx_init	1
+../Src/main.c:58:6:UART2_Write	2
+../Src/main.c:66:13:set_BaudRate	1
+../Src/main.c:71:17:compute_uart_bd	1
